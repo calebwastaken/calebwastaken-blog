@@ -1,6 +1,6 @@
 baseURL = 'https://calebwastaken.com'
 languageCode = 'en'
-title = 'Caleb Was Taken'
+title = 'Calebs Site'
 theme = 'FixIt'
 
 # Author config
@@ -51,7 +51,7 @@ theme = 'FixIt'
   [params.footer]
     enable = true
     # whether to show Hugo and theme info
-    hugo = true
+    hugo = false
     # whether to show copyright info
     copyright = true
     # whether to show the author
@@ -69,9 +69,9 @@ theme = 'FixIt'
       # URL of avatar shown in home page
       avatarURL = ""
       # title shown in home page
-      title = "Caleb Was Taken"
+      title = "Caleb's Site'"
       # subtitle shown in home page
-      subtitle = "Welcome to my blog"
+      subtitle = "This used to be my blog, it still is, but it used to be too."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -93,11 +93,11 @@ theme = 'FixIt'
     # whether to hide a page from search results
     hiddenFromSearch = false
     # whether to enable twemoji
-    twemoji = false
+    twemoji = true
     # whether to enable lightgallery
     lightgallery = false
     # whether to show link to Raw Markdown content
-    linkToMarkdown = true
+    linkToMarkdown = false
     # Table of contents config
     [params.page.toc]
       # whether to enable the table of contents

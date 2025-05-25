@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monit on Calebs Site</title>
+    <link>http://localhost:1313/tags/monit/</link>
+    <description>Recent content in Monit on Calebs Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 May 2024 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/monit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting up Monit&#34;</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Sat, 25 May 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mmonit.com/monit/&#34;&gt;Monit&lt;/a&gt; is an open source tool for monitoring and managing processes, programs, files, directories and filesystems. You can program Monit to execute actions for events such as  the status of a running process or if your machine&amp;rsquo;s CPU consumption reaches a certain threshold. &lt;a href=&#34;https://mmonit.com/&#34;&gt;M/Monit&lt;/a&gt; is usually installed alongside Monit as it (according to the definition on  mmonit.com) &lt;em&gt;&amp;ldquo;builds on Monit&amp;rsquo;s capabilities and provides monitoring and management of all your Monit enabled hosts via a modern, clean and well designed user interface which also works on mobile devices.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
