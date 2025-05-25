@@ -69,9 +69,9 @@ theme = 'FixIt'
       # URL of avatar shown in home page
       avatarURL = ""
       # title shown in home page
-      title = "Caleb's Site'"
+      title = "It would have been caleb.com but"
       # subtitle shown in home page
-      subtitle = "This used to be my blog, it still is, but it used to be too."
+      subtitle = "caleb was taken"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
