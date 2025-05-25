@@ -7,7 +7,7 @@ draft: false
 author: "Caleb"
 description: "Setting up Monit on an Azure Virtual Machine (VM)"
 tags: ["mmonit", "azure", "smtp"]
-categories: ["general"]
+categories: ["DevOps"]
 ---
 
 [Monit](https://mmonit.com/monit/) is an open source tool for monitoring and managing processes, programs, files, directories and filesystems. You can program Monit to execute actions for events such as the status of a running process or if your machine's CPU consumption reaches a certain threshold. [M/Monit](https://mmonit.com/) is usually installed alongside Monit as it (according to the definition on mmonit.com) _"builds on Monit's capabilities and provides monitoring and management of all your Monit enabled hosts via a modern, clean and well designed user interface which also works on mobile devices."_
