@@ -2,9 +2,8 @@ backend:
   name: github
   repo: calebwastaken/calebwastaken-blog
   branch: main
-  # This uses GitHub's direct authentication
-  auth_scope: repo
-  open_authoring: true
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
 
 media_folder: "static/images"
 public_folder: "/images"
