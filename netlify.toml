@@ -3,16 +3,16 @@
   command = "hugo --minify"
 
 [build.environment]
-  HUGO_VERSION = "0.140.1"
+  HUGO_VERSION = "0.147.5"
 
 [context.production.environment]
   HUGO_ENV = "production"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.140.1"
+  HUGO_VERSION = "0.147.5"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.140.1"
+  HUGO_VERSION = "0.147.5"
 
 [[headers]]
   for = "/*"
@@ -21,10 +21,3 @@
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
-
-# Redirect apex domain to www (optional)
-# [[redirects]]
-#   from = "https://calebwastaken.com/*"
-#   to = "https://www.calebwastaken.com/:splat"
-#   status = 301
-#   force = true
